@@ -1,0 +1,71 @@
+﻿body
+{
+
+}
+.navcontener{
+
+}
+.navbar {
+    background-color: #121212e7;
+    
+    
+    
+}
+
+.navbareEditor {
+    height: 90px;
+    padding-top: 4.3%;
+    background: #A1CAF1;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.logo_{
+   /*float:left;
+   margin-right:6px;
+   margin-left:100px;*/
+  
+}
+#heder_img {
+    width: 100%;
+    background-image: url("imge/Untitled333.png");
+    /*background-image: linear-gradient(to bottom, rgba(161, 202, 241, 0), rgba(161, 202, 241, 0.7)),*/ /* التدرج اللوني */
+    /*url('imge/centreback.jpg');*/ /* صورة الخلفية */
+    height: 600px;
+    width: 100%;
+    background-size: cover; /* اجعل الصورة تغطي كامل مساحة الخلفية */
+    background-position: center; /* تأكد من أن الصورة مركزة بشكل جيد */
+    background-repeat: no-repeat;
+    text-align: left;
+    background-color: #004784;
+}
+#section-learn {
+   /* background-color: #E34234;*/
+    height: 150px;
+    padding-top: 50px;
+}
+.conterner_heder_imge {
+    margin-top:15%;
+    margin-right: 5%;
+    float: right;
+    text-align: center;
+
+}
+#section_abutus {
+    margin-top: 5%;
+    box-shadow: 0 8px 15px rgb(0, 0, 0.1);
+    border-radius:10px;
+}
+.seves-contener {
+    background: #008cfe;
+    padding: 10px;
+    padding-top: 70px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 60%;
+    box-shadow: 0 8px 15px rgb(0, 0, 0.1);
+    text-align-last: center;
+    text-align: center;
+}
+#contener-combeny{
+    margin-top:10%;
+}
